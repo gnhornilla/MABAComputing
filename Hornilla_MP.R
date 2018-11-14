@@ -1,7 +1,7 @@
 #Noel Gabriel Hornilla
 #Machine Problem
 
-###################################################################
+####################################################################
 
 # Define an R function that computes the factorial of given an integer argument. 
 #The output should be a vector of length 1.
