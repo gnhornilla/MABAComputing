@@ -40,7 +40,7 @@ remove_na2 <- function(x){x[!is.na(x)]}
 ###################################################################
 #Define an R function that sorts a given vector in decreasing order. 
 #The output should be a vector of the same length. It should accept both numeric or character vectors.
-#NOTE: Numeric vectors will be sorted from largest to smallest, character vectors will be sorted from 0 to 9 then Z to A with NAs in the last
+#NOTE: Numeric vectors will be sorted from largest to smallest, character vectors will be sorted from Z to A with NAs in the last
 
 
 #Version 1: Using exsisting sort function in R
