@@ -1,5 +1,7 @@
-#**MAB2111 Assignment No. 2**  
-#*Noel Gabriel Hornilla*
+**MAB2111 Assignment No. 2**  
+===
+*Noel Gabriel Hornilla*
+===
 
 ##Files:
 
